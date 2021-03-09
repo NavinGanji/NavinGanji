@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Navin Ganji</h1>
 <h3 align="center">A Passionate Self-Taught Python Programmer & Frontend Developer From India. Always Keen To Learn New Technologies & Dive Deep Into The Ocean Of It. Currently In Final Year Of Engineering (MECHANICAL).</h3>
 
+---
 - 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 Portfolio [http://navinganji.ml/?i=1](http://navinganji.ml/?i=1)
 
 - 📫 How to reach me **navinganji09@gmail.com**
 
-- ⚡ Fun fact **I Am Memer 😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
