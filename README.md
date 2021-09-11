@@ -8,7 +8,6 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 Portfolio [http://navinganji.ml/?i=1](http://navinganji.ml/?i=1)
 
 - 📫 How to reach me **navinganji09@gmail.com**
 
